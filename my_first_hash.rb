@@ -1,4 +1,7 @@
-def my_hash
+ef my_hash(your_hash)
+  your_hash = {"pencil" => 2, "paper" => "a lot"}
+  
+
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
